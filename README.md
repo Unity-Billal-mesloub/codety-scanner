@@ -59,7 +59,7 @@ Codety Scanner provides out-of-box integrations with pmd, eslint, checkov, cppch
 Check document [Codety Scanner Quickstart](https://docs.codety.io/docs/quickstart/index)
 
 ### License:
-https://github.com/codetyio/codety-scanner/blob/main/LICENSE.txt
+https://github.com/Unity-Billal-mesloub/codety-scanner/blob/main/LICENSE.txt
 
 ### Welcome new contributors
 We greatly value contributions of any kind. Contributions could include, but are not limited to documentation improvements, bug reports, new or improved code! Check more at [CONTRIBUTING.md](https://github.com/Unity-Billal-mesloub/codety-scanner/blob/main/CONTRIBUTING.md)
