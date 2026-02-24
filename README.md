@@ -7,9 +7,9 @@
 **Codety Scanner** is a comprehensive code scanner designed to detect code issues for 30+ programming languages and IaC frameworks. It embeds more than 6,000 code analysis rules and can detect code smells, vulnerable code, secrets in the code, performance issues, style violations, and more. Codety Scanner is open source and is free for personal and commercial use, Codety Scanner's source code is contributed and maintained by [Codety Inc.(https://codety.io)](https://codety.io)
 
 Codety Scanner detects your code issues and report results to:
-* GitHub pull request comments ([check example here](https://github.com/codetyio/codety-scanner/pull/15#issuecomment-2320351633))
-* GitHub pull request review comments ([check example here](https://github.com/codetyio/codety-scanner/pull/15/files#r1738123885))
-* GitHub check run annotations ([check example here](https://github.com/codetyio/codety-scanner/actions/runs/10786005219/job/29912189435))
+* GitHub pull request comments ([check example here](https://github.com/Unity-Billal-mesloub/codety-scanner/pull/issue))
+* GitHub pull request review comments ([check example here](https://github.com/Unity-Billal-mesloub/codety-scanner/pull)
+* GitHub check run annotations ([check example here](https://github.com/Unity-Billal-mesloub/codety-scanner/actions)
 * Slack
 * GitLab merge request review comments(coming...)
 
@@ -62,7 +62,7 @@ Check document [Codety Scanner Quickstart](https://docs.codety.io/docs/quickstar
 https://github.com/codetyio/codety-scanner/blob/main/LICENSE.txt
 
 ### Welcome new contributors
-We greatly value contributions of any kind. Contributions could include, but are not limited to documentation improvements, bug reports, new or improved code! Check more at [CONTRIBUTING.md](https://github.com/codetyio/codety-scanner/blob/main/CONTRIBUTING.md)
+We greatly value contributions of any kind. Contributions could include, but are not limited to documentation improvements, bug reports, new or improved code! Check more at [CONTRIBUTING.md](https://github.com/Unity-Billal-mesloub/codety-scanner/blob/main/CONTRIBUTING.md)
 
 <br/>
 
